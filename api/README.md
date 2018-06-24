@@ -39,6 +39,10 @@ Endpoints:
 
 `/get-app/{appName}`: get and fetch specific app in our database.
 
+For testing:
+
+`vendor/bin/phpunit tests/ReviewTest.php`
+
 ## Author
 
 - [Lucas Cavalcante](http://lucascavalcante.com.br)
