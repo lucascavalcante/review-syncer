@@ -34,7 +34,9 @@ After this, will generate your database.
 
 Endpoints:
 `/`: Just the name and version from app.
+
 `/get-app`: get and fetch all apps in our database.
+
 `/get-app/{appName}`: get and fetch specific app in our database.
 
 ## Author
